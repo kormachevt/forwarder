@@ -1,4 +1,4 @@
-module github.com/anthhub/forwarder
+module github.com/kormachevt/forwarder
 
 go 1.16
 
