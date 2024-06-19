@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-go get github.com/anthhub/forwarder
+go get github.com/kormachevt/forwarder
 ```
 
 
@@ -17,7 +17,7 @@ go get github.com/anthhub/forwarder
 ```go
 
 	import (
-		"github.com/anthhub/forwarder"
+		"github.com/kormachevt/forwarder"
 	)
 
 	options := []*forwarder.Option{
